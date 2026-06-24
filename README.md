@@ -1,12 +1,13 @@
 ### Informações do projeto:
-<p> A chave Gemini AI Studio eu removi!. Caso deseje rodar o código gere uma nova chave e insira em: " minha_chave = "" " <br><br>
+<p> Este foi um projeto de estudo, onde utilizeio Google Gemini como um agente para gerar automaticamente conteúdo para o segmento financeiro. <br>
+  A chave Gemini AI Studio foi removida! Para teste, para rodar o código gere uma nova chave e insira em: " minha_chave = "" " <br><br>
 
 ### Tecnologias que utilizei:
 <div style="display: inline_block">
   <b>PYTHON | STREAMLIT | GOOGLE AI STUDIO GEMINI</b><br><br>
   
   
-<b> Solução:</b> <br>
+<b> Como rodar o teste:</b> <br>
 Desenvolvi um gerador de conteúdo utilizando Inteligencia Artificial Google Gemini, versão 1.5 flash.<br>
 No prompt ja deixei definido a guia para IA e ao clicar no botão [Gerar texto] o sistema o utiliza como base e a cada clique gera um texto seguindo a orientação.
 <br><br>
